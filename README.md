@@ -1,16 +1,61 @@
-## Hi there 👋
+# Hi, I'm Hoang
 
-<!--
-**hoangmelinh/hoangmelinh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A passionate Information Technology student at Posts and Telecommunications Institute of Technology (PTIT), interested in building scalable software systems and AI-powered applications. My work focuses on backend development, web applications, and applied artificial intelligence.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🎓 Information Technology Student at **Posts and Telecommunications Institute of Technology (PTIT)**
+- 💻 Interested in **Backend Development, AI Applications, and Web Systems**
+- 🧠 Exploring **Natural Language Processing, OCR, Vector Databases, java springboot, Restful Api**
+- 🌱 Learning more about **System Design, AI Engineering, and Fullstack Development**
+- 👯 Open to collaborate on **AI and Software Engineering projects**
+- 💬 Ask me about **Java, Spring Boot, React, Python, and AI applications**
+
+---
+
+## 🛠 Tech Stack
+
+**Languages**
+
+- Java  
+- Python  
+- JavaScript  
+- SQL
+- C/C++
+
+**Backend**
+
+- Spring Boot  
+- Django
+- Nodejs
+
+**Frontend**
+
+- ReactJS  
+- HTML / CSS / Bootstrap  
+
+**AI & Data**
+
+- NLP
+- Tesseract OCR
+- Vector Embedding
+- RAG (Retrieval-Augmented Generation)
+
+**Tools**
+
+- Git  
+- Docker  
+- MySQL  
+- XAMPP  
+- Postman
+- ...
+  
+---
+
+## 📫 Contact
+
+- 📍 Hà Nội, Việt Nam
+- 📧 Facebook: https://www.facebook.com/iulinh0706
+- 💼 Linkedin: https://www.linkedin.com/in/hoangmelinh/
