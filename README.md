@@ -17,40 +17,15 @@ A passionate Information Technology student at Posts and Telecommunications Inst
 
 ## 🛠 Tech Stack
 
-**Languages**
+**Languages** : Java, Python, JavaScript, C/C++
 
-- Java  
-- Python  
-- JavaScript  
-- SQL
-- C/C++
+**Backend**: Spring Boot, Django, flask, Nodejs
 
-**Backend**
+**Frontend**: ReactJS, HTML / CSS / Bootstrap  
 
-- Spring Boot  
-- Django
-- Nodejs
+**AI & Data**: NLP, Tesseract OCR, Vector Embedding, RAG (Retrieval-Augmented Generation)
 
-**Frontend**
-
-- ReactJS  
-- HTML / CSS / Bootstrap  
-
-**AI & Data**
-
-- NLP
-- Tesseract OCR
-- Vector Embedding
-- RAG (Retrieval-Augmented Generation)
-
-**Tools**
-
-- Git  
-- Docker  
-- MySQL  
-- XAMPP  
-- Postman
-- ...
+**Tools**: Git, Docker, MySQL, XAMPP, Postman...
   
 ---
 
